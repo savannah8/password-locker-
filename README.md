@@ -1,5 +1,5 @@
 # {Password locker}
-####{Description}
+#### {Description}
 This is an application where a user can create passwords for their different accounts
 #### By **{Willen Gitonga}**
 ## Setup/Installation Requirements
